@@ -55,4 +55,4 @@ Caso a velocidade do vento chegue a mais de 80km/h, você pode conferir o Tweet 
 
 * [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [projec template by our awesome teacher](https://github.com/arnaldojr/templatenac)
+* [project template by our awesome teacher](https://github.com/arnaldojr/templatenac)
