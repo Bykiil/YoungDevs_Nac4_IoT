@@ -27,28 +27,22 @@ Para desenvolve-lo utilizamos o **SimulIDE** para construir o circuito e rodar o
 
 ## Como usar 
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
+Para rodar o projeto, será necessário ter:
 
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
+**SimulIDE**
+**Node-RED**
 
-Ou qualquer outra tabulação:
+No SimulIDE, deve-se abrir os arquivos: circ.simu (o circuito, localizado na pasta circuitos) e cod.ino (o cógigo arduino, localizado na pasta codes_arduino).
+No Node-RED, instalar os modules:
+* node-red-dashboard
+* node-red-node-serialport
+* node-red-node-twitter
+Após as intalações incluir o arquivo flows.json (localizado na pasta flows_node).
 
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
 
 
 ## Link de vídeo demonstração
 
-Adicione o link para assistir ao vídeo do projeto funcionando.
 
 [Link para o video no drive](https://drive.google.com/file/d/1s7XjuKFu1BPCBxm_8LAGAuPEJtnX6oJT/view?usp=sharing)
 
@@ -57,3 +51,4 @@ Adicione o link para assistir ao vídeo do projeto funcionando.
 
 * [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [projec template by our awesome teacher](https://github.com/arnaldojr/templatenac)
