@@ -50,7 +50,7 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 
 Adicione o link para assistir ao vídeo do projeto funcionando.
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video no drive](https://drive.google.com/file/d/1s7XjuKFu1BPCBxm_8LAGAuPEJtnX6oJT/view?usp=sharing)
 
 
 ### Referências 
