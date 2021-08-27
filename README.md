@@ -27,18 +27,22 @@ Para desenvolve-lo utilizamos o **SimulIDE** para construir o circuito e rodar o
 
 ## Como usar 
 
-Para rodar o projeto, será necessário ter:
+Para rodar o projeto, será necessário ter os softwares:
 
 **SimulIDE** <br>
-**Node-RED**
+**Node-RED**<br>
+**Arduino**<br>
+**com0com**
 
-No SimulIDE, deve-se abrir os arquivos: circ.simu (o circuito, localizado na pasta circuitos) e cod.ino (o cógigo arduino, localizado na pasta codes_arduino).<br>
+
+No SimulIDE, deve-se importar os arquivos: circ.simu (o circuito, localizado na pasta circuitos) e cod.ino (o cógigo arduino, localizado na pasta codes_arduino), compilar e rodar! =D <br>
 No Node-RED, instalar os modules:
 * node-red-dashboard
 * node-red-node-serialport
 * node-red-node-twitter <br>
-Após as intalações incluir o arquivo flows.json (localizado na pasta flows_node).
+Após as intalações incluir o arquivo flows.json (localizado na pasta flows_node).<br>
 
+Caso a velocidade do vento chegue a mais de 80km/h, você pode conferir o Tweet na conta do Twitter "@BiaKiil"
 
 
 ## Link de vídeo demonstração
