@@ -29,14 +29,14 @@ Para desenvolve-lo utilizamos o **SimulIDE** para construir o circuito e rodar o
 
 Para rodar o projeto, será necessário ter:
 
-**SimulIDE**
+**SimulIDE** <br>
 **Node-RED**
 
-No SimulIDE, deve-se abrir os arquivos: circ.simu (o circuito, localizado na pasta circuitos) e cod.ino (o cógigo arduino, localizado na pasta codes_arduino).
+No SimulIDE, deve-se abrir os arquivos: circ.simu (o circuito, localizado na pasta circuitos) e cod.ino (o cógigo arduino, localizado na pasta codes_arduino).<br>
 No Node-RED, instalar os modules:
 * node-red-dashboard
 * node-red-node-serialport
-* node-red-node-twitter
+* node-red-node-twitter <br>
 Após as intalações incluir o arquivo flows.json (localizado na pasta flows_node).
 
 
