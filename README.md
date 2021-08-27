@@ -1,15 +1,16 @@
 
 # NAC4 - Smart Citty
 
-**Integrantes YoungDevs: 
+**Integrantes YoungDevs:  **
     Estevão Alves Avelino – RM85615
     Beatriz Kül Rezende - RM85607
     Gustavo Henrique Garrido de Melo – RM85136
-     Murilo Salvador Bagodi - RM83436
+    Murilo Salvador Bagodi - RM83436
     Glaydson do Nascimento Marques – RM85100
-    Pedro Gabriel da Costa Vieira Oliveira - RM85400 **
+    Pedro Gabriel da Costa Vieira Oliveira - RM85400
 
-**Turma: 2TDSA:**
+**Turma: **
+    2TDSA
 
 
 ## Objetivo / descrição do Projeto
