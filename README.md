@@ -15,11 +15,12 @@
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Este é um projeto para a entrega da NAC4, da matéria de Disruptive Architectures IOT e IA. 
+O objetivo é desenvolver uma estação meteorológica que capta informações de sensores e envia para um servidor que exibe as informações em um dashboard, um alerta é enviado automaticamente via twitter, caso a velocidade do vento seja maior que 80km/h.
+Para desenvolve-lo utilizamos o **SimulIDE** para construir o circuito e rodar o código arduino, o **Node-RED** para criar os fluxos de comunicação (via **MQTT**) entre nosso dispositivo e o **dashboard** (e o **Twitter** quando necessário). 
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
 
 <img src="/imgProject.png" width="550">
 
